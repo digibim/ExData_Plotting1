@@ -1,4 +1,9 @@
-## Introduction
+## Course Project 1
+
+Submission for Assignment 1, containing 4 .png plots and the the .R scripts that produce them. See below for the original (forked) readme containing a description of the project.
+
+
+### Introduction
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
